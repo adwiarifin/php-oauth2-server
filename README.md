@@ -13,3 +13,5 @@ And just as before, you will receive an access token:
 `{"access_token":"6f05ad622a3d32a5a81aee5d73a5826adb8cbf63","expires_in":3600,"token_type":"bearer","scope":null}`
 
 Note: Be sure to do this quickly, because Authorization Codes expire in 30 seconds!
+
+Step by step tutorial can be accessed in: [OAuth 2.0 Server PHP by Brent Shaffer](https://bshaffer.github.io/oauth2-server-php-docs/cookbook/)
